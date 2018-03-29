@@ -16,13 +16,10 @@ redirect_from:
 ## Work experience
 
 * 2018.5 - 2018.8: Data Scientist Intern, McKinsey & Company
-
 * 2017.10 - present: Apache SDAP Committer
-
 * 2014 - present: Graduate Research Assistant
   * [NSF Spatiotemporal Innovation Center](http://stcenter.net/stc/), George Mason University
   * Supervisor: Dr. Chaowei (Phil) Yang
-
 * 2012 - 2014: Research Developer
   * [Clark Labs](https://clarklabs.org/), Clark University
   * Supervisor: Dr. Ron Eastman

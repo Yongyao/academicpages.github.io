@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * Student Director 
-  * Cyberinfrastructure Specialty Group (CISG) of American Association of Geographers (2017 – Present)
+  * Cyberinfrastructure Specialty Group (CISG) of American Association of Geographers (2017 – 2018)
 * Student Fellow 
   * Earth Science Information Partners (ESIP) (2017 – Present)
 * Reviewer 

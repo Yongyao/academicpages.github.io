@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-* Teaching Assistant, Aug. 2017-Present
+* Teaching Assistant, Aug. 2017-Dec. 2017
   * GGS 311 - Introduction to GIS, Instructor: Matt Rice
 * Teaching Assistant, Jan. 2017-May 2017
   * GGS 664 - Spatial Data Structures, Instructor: Chaowei Phil Yang

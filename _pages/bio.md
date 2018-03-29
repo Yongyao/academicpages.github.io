@@ -13,18 +13,13 @@ redirect_from:
 * __M.S.__ in Geographic Information Science, Clark University, 2014
 * __B.S.__ in Remote Sensing, Whuhan University, 2012
 
-
-## Research interests
-
-* Big geospatial data discovery, management, and processing
-* Spatiotemporal data analytics, machine learning applications in broad GIScience domains
-* Geospatial cyberinfrastructure, high performance computing
-* Geographic Information Science and remote sensing
-* Geospatial semantics – semantic similarity, search
-
 ## Work experience
 
-* 2014 - present: Research Assistant
+* 2018.5 - 2018.8: Data Scientist Intern, McKinsey & Company
+
+* 2017.10 - present: Apache SDAP Committer
+
+* 2014 - present: Graduate Research Assistant
   * [NSF Spatiotemporal Innovation Center](http://stcenter.net/stc/), George Mason University
   * Supervisor: Dr. Chaowei (Phil) Yang
 
@@ -34,11 +29,19 @@ redirect_from:
   
 ## Skills
 
-* Programming languages: Java, Python, C++, Delphi, Javascript, HTML5, CSS
-* Data analytics tools: •	Keras/Tensorflow, scikit-learn, Stanford NLP, Genism, Weka, Apache Nutch, Tika
+* Programming languages: Java, Python, C++, Javascript
+* Data analytics tools: Keras/Tensorflow, scikit-learn, Stanford NLP, Genism, Weka, Apache Nutch, Tika
 * Data processing tools: Apache Spark, Hadoop
-* Data visualization tools: OpenLayers, Google Maps & Earth APIs, Kibana, D3.js
-* Data storage tools: Elasticsearch, Mysql, MangoDB, Neo4j, Apache Gora
+* Data visualization tools: D3.js, OpenLayers, Google Maps & Earth APIs, Kibana
+* Data storage tools: Elasticsearch, Mysql, MangoDB
+
+## Research interests
+
+* Big geospatial data discovery, management, and processing
+* Spatiotemporal data analytics, machine learning applications in broad GIScience domains
+* Geospatial cyberinfrastructure, high performance computing
+* Geographic Information Science and remote sensing
+* Geospatial semantics – semantic similarity, search
 
 
 

@@ -10,7 +10,7 @@ author_profile: true
 * Student Director 
   * Cyberinfrastructure Specialty Group (CISG) of American Association of Geographers (2017 – 2018)
 * Student Fellow 
-  * Earth Science Information Partners (ESIP) (2017 – Present)
+  * Earth Science Information Partners (ESIP) (2017 – 2018)
 * Reviewer 
   * International Journal of Geographic Information Science (2017 – Present)
   * Transactions in GIS (2017 – Present)
@@ -21,9 +21,9 @@ author_profile: true
 * Student Coordinator
   * The Sino-US Training Program on “Technical Training Course of National Geographic Conditions Monitoring and Analysis” (2017)
 * Memberships
-  * Association of American Geographers (AAG) (2013 – Present)
-  * American Geophysical Union (AGU) (2015 – Present)
-  * Earth Science Information Partners (ESIP) (2015 – Present)
+  * Association of American Geographers (AAG) (2013 – 2018)
+  * American Geophysical Union (AGU) (2015 – 2018)
+  * Earth Science Information Partners (ESIP) (2015 – 2018)
 
 
 

@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* __Ph.D__ in GeoInformation Science, George Mason University, 2018 (expected)
+* __Ph.D__ in GeoInformation Science, George Mason University, 2018
 * __M.S.__ in Geographic Information Science, Clark University, 2014
 * __B.S.__ in Remote Sensing, Whuhan University, 2012
 

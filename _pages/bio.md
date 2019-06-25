@@ -9,12 +9,13 @@ redirect_from:
 
 ## Education
 
-* __Ph.D__ in GeoInformation Science, George Mason University, 2018
+* __Ph.D__ in GeoInformation Science, George Mason University, 2019
 * __M.S.__ in Geographic Information Science, Clark University, 2014
 * __B.S.__ in Remote Sensing, Whuhan University, 2012
 
 ## Work experience
 
+* 2018.10 - Present: Software Engineer - Spatial Data Science, ESRI
 * 2018.5 - 2018.8: Data Scientist Intern, McKinsey & Company
 * 2017.10 - present: Apache SDAP Committer
 * 2014 - present: Graduate Research Assistant
@@ -26,11 +27,11 @@ redirect_from:
   
 ## Skills
 
-* Programming languages: Java, Python, C++, Javascript
-* Data analytics tools: Keras/Tensorflow, scikit-learn, Stanford NLP, Genism, Weka, Apache Nutch, Tika
-* Data processing tools: Apache Spark, Hadoop
-* Data visualization tools: D3.js, OpenLayers, Google Maps & Earth APIs, Kibana
-* Data storage tools: Elasticsearch, Mysql, MangoDB
+* Programming languages: Java, Python, Javascript
+* Data analytics tools: Fast.ai, Keras/Tensorflow, scikit-learn, Stanford NLP, Genism, Weka, Apache Nutch, Tika
+* Data processing tools: Apache Spark, GCP
+* Data visualization tools: Matplotlib, Google Maps & Earth APIs, Kibana
+* Data storage tools: Elasticsearch, MySQL
 
 ## Research interests
 

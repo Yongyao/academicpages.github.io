@@ -7,6 +7,7 @@ author_profile: true
 
 ## Honors and awards
 
+* Outstanding Ph.D. Student Award, 2019
 * [Federation of Earth Science Information Partners (ESIP) Student Fellowship](http://www.esipfed.org/about/community/leadership/student-fellows/yongyao-jiang-2), 2016
 * [NSF EarthCube Visiting Graduate Student and Early-Career Scientist Award](https://www.earthcube.org/document/2015/visiting-scholar-program), 2016
 * [First Prize in the Robert Raskin CyberGIS Student Competition](http://cybergis.uncc.edu/cisg/index.php/robert-raskin-student-competition/robert-raskin-student-cybergis-competition/), 2015

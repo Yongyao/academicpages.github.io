@@ -13,7 +13,7 @@ redirect_from:
 * __M.S.__ in Geographic Information Science, Clark University, 2014
 * __B.S.__ in Remote Sensing, Whuhan University, 2012
 
-## Work experience
+## Professional experience
 
 * 2018.10 - Present: Software Engineer - Spatial Data Science, ESRI
 * 2018.5 - 2018.8: Data Scientist Intern, McKinsey & Company
@@ -28,18 +28,17 @@ redirect_from:
 ## Skills
 
 * Programming languages: Java, Python, Javascript
-* Data analytics tools: Fast.ai, Keras/Tensorflow, scikit-learn, Stanford NLP, Genism, Weka, Apache Nutch, Tika
+* Data analytics tools: Fast.ai, Keras/Tensorflow, scikit-learn, Genism
 * Data processing tools: Apache Spark, GCP
 * Data visualization tools: Matplotlib, Google Maps & Earth APIs, Kibana
 * Data storage tools: Elasticsearch, MySQL
 
 ## Research interests
 
-* Big geospatial data discovery, management, and processing
-* Spatiotemporal data analytics, machine learning applications in broad GIScience domains
-* Geospatial cyberinfrastructure, high performance computing
+* Geospatial data discovery
+* Spatial data science
 * Geographic Information Science and remote sensing
-* Geospatial semantics – semantic similarity, search
+* Geospatial information retrieval
 
 
 
